@@ -8,3 +8,8 @@ The YOLO model is capable of detecting upto 80 objects in an image, based on the
 
 To run the model, use the following command on any terminal:
 python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt
+
+To download the weights file, go to this link:
+https://pjreddie.com/media/files/yolov3.weights
+
+Sources: https://towardsdatascience.com/yolo-object-detection-with-opencv-and-python-21e50ac599e9
